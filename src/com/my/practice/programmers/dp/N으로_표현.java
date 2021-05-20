@@ -1,4 +1,4 @@
-package com.my.practice.programmers.sort;
+package com.my.practice.programmers.dp;
 
 import java.util.ArrayList;
 import java.util.HashMap;
